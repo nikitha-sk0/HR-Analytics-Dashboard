@@ -21,4 +21,4 @@ The dashboard analyzes employee attrition based on:
 - Years at company
 
 ## Dashboard Preview
-![Dashboard](dashboard.png.jpeg)
+![Dashboard](dashboard.png)
